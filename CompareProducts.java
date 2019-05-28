@@ -1,7 +1,7 @@
 /*
  * Project Name: Guru99 eCommerce Live Project
  * Author: Rajashekar KM
- * purpose : Compare Products
+ * purpose : Compare Products Nokia and iphone
  */
 
 
